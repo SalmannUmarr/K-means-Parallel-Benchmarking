@@ -1,4 +1,4 @@
-# I220908 PDC Project: K-Means Benchmarking System
+# PDC Project: K-Means Benchmarking System
 
 This project implements and benchmarks multiple K-Means clustering versions for
 a Parallel and Distributed Computing project. The benchmark system is designed
